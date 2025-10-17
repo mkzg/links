@@ -6,7 +6,7 @@
 [![n8n工作流自动化](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=n8n工作流自动化&bgColor=%237CB5F7&textColor=%23ffffff)](https://n8n.olim.cc)
 [![盘-CDrive](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=盘-CDrive&bgColor=%237CB5F7&textColor=%23ffffff)](https://pan.olim.cc)
 
-[![AList文件存储-Claw](https://images.placeholders.dev/?width=320&height=50&fontSize=30&text=AList文件存储-Claw&bgColor=%237CB5F7&textColor=%23ffffff)](https://oplist.olim.in)
+[![AList文件存储-Claw](https://images.placeholders.dev/?width=320&height=50&fontSize=30&text=AList文件存储-Claw&bgColor=%237CB5F7&textColor=%23ffffff)](https://alist.olim.in)
 [![Draw画图-Claw](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Draw画图-Claw&bgColor=%237CB5F7&textColor=%23ffffff)](https://draw.olim.in)
 [![Ghost博客-Claw](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Ghost博客-Claw&bgColor=%237CB5F7&textColor=%23ffffff)](https://blog.olim.in)
 [![临时PPT展示-GH](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=临时PPT展示-GH&bgColor=%237CB5F7&textColor=%23ffffff)](https://ppt.olim.in)
