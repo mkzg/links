@@ -1,7 +1,8 @@
 # links
 ### 自建服务
 [![NocoBase](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=NocoBase&bgColor=%237CB5F7&textColor=%23ffffff)](https://base.olim.cc)
-[![n8n工作流自动化](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=n8n工作流自动化&bgColor=%237CB5F7&textColor=%23ffffff)](https://n8n.olim.cc)
+[![n8n工作流自动化](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=n8n自动化-olim&bgColor=%237CB5F7&textColor=%23ffffff)](https://n8n.olim.cc)
+[![n8n工作流自动化](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=n8n自动化-mkzg&bgColor=%237CB5F7&textColor=%23ffffff)](https://n8n.mkzg.com)
 [![immich照片管理](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=immich照片管理&bgColor=%237CB5F7&textColor=%23ffffff)](https://photo.olim.cc)
 [![CF图库文件列表](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=CF图库文件列表&bgColor=%237CB5F7&textColor=%23ffffff)](https://image.olim.cc)
 [![盘-CDrive](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=盘-CDrive&bgColor=%237CB5F7&textColor=%23ffffff)](https://pan.olim.cc)
@@ -10,13 +11,15 @@
 [![IT实用工具集](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=IT实用工具集&bgColor=%237CB5F7&textColor=%23ffffff)](https://tools.mkzg.com)
 [![在线影视观看](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=在线影视观看&bgColor=%237CB5F7&textColor=%23ffffff)](https://tv.mkzg.com)
 
-
 [![AList文件存储-Claw](https://images.placeholders.dev/?width=320&height=50&fontSize=30&text=AList存储-爪云&bgColor=%237CB5F7&textColor=%23ffffff)](https://alist.olim.in)
 [![Draw画图-Claw](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Draw画图-爪云&bgColor=%237CB5F7&textColor=%23ffffff)](https://draw.olim.in)
 [![Ghost博客-Claw](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Ghost博客-爪云&bgColor=%237CB5F7&textColor=%23ffffff)](https://blog.olim.in)
 [![临时PPT展示-GH](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=临时PPT展示-GH&bgColor=%237CB5F7&textColor=%23ffffff)](https://ppt.olim.in)
+[![Jupyter](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Jupyter-Notebook&bgColor=%237CB5F7&textColor=%23ffffff)](https://jupyter.mkzg.com)
 
-[![1panel-A1](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-A1&bgColor=%237CB5F7&textColor=%23ffffff)](https://1panel.mkzg.com/5ca03f4773)
+[![1panel-A1](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-A1&bgColor=%237CB5F7&textColor=%23ffffff)](https://1panel.mkzg.com/8da3914e8d)
+[![1panel-AMD-1918](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-AMD1918&bgColor=%237CB5F7&textColor=%23ffffff)](https://1panel-mkzg.mkzg.com/6a178d22d2)
+[![1panel-AMD-2220](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-AMD2220&bgColor=%237CB5F7&textColor=%23ffffff)](https://1panel.olim.in/33c316eef5)
 [![1panel-Home](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-Home&bgColor=%237CB5F7&textColor=%23ffffff)](http://10.0.0.250:32605/1379e41ace)
 
 ### 常用平台服务
