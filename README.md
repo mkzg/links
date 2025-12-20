@@ -1,11 +1,11 @@
 # links
 ### 自建服务
-[![NocoBase](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=NocoBase&bgColor=%237CB5F7&textColor=%23ffffff)](https://base.olim.cc)
-[![n8n工作流自动化](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=n8n自动化-olim&bgColor=%237CB5F7&textColor=%23ffffff)](https://n8n.olim.cc)
+[![NocoBase](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=NocoBase&bgColor=%237CB5F7&textColor=%23ffffff)](https://base.olim.in)
+[![n8n工作流自动化](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=n8n自动化-olim&bgColor=%237CB5F7&textColor=%23ffffff)](https://n8n.olim.in)
 [![n8n工作流自动化](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=n8n自动化-mkzg&bgColor=%237CB5F7&textColor=%23ffffff)](https://n8n.mkzg.com)
-[![immich照片管理](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=immich照片管理&bgColor=%237CB5F7&textColor=%23ffffff)](https://photo.olim.cc)
-[![CF图库文件列表](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=CF图库文件列表&bgColor=%237CB5F7&textColor=%23ffffff)](https://image.olim.cc)
-[![盘-CDrive](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=盘-CDrive&bgColor=%237CB5F7&textColor=%23ffffff)](https://pan.olim.cc)
+[![immich照片管理](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=immich照片管理&bgColor=%237CB5F7&textColor=%23ffffff)](https://photo.olim.in)
+[![CF图库文件列表](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=CF图库文件列表&bgColor=%237CB5F7&textColor=%23ffffff)](https://image.olim.in)
+[![盘-CDrive](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=盘-CDrive&bgColor=%237CB5F7&textColor=%23ffffff)](https://pan.olim.in)
 [![密码管理](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=VaultWarden&bgColor=%237CB5F7&textColor=%23ffffff)](https://vault.mkzg.com)
 [![Filebrowser](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MKZG-file&bgColor=%237CB5F7&textColor=%23ffffff)](https://file.mkzg.com)
 [![IT实用工具集](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=IT实用工具集&bgColor=%237CB5F7&textColor=%23ffffff)](https://tools.mkzg.com)
