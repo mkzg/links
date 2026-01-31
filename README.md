@@ -15,7 +15,6 @@
 [![Filebrowser](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MKZG-file&bgColor=%237CB5F7&textColor=%23ffffff)](https://file.mkzg.com)
 [![webdav](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MKZG-dav&bgColor=%237CB5F7&textColor=%23ffffff)](https://dav.mkzg.com)
 
-[![ntfy消息推送](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=ntfy推送-AMD&bgColor=%237CB5F7&textColor=%23ffffff)](https://ntfy.olim.in)
 [![MEMEO-amd](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MEMOS-AMD&bgColor=%237CB5F7&textColor=%23ffffff)](https://memos.olim.ca)
 
 [![CF图库文件列表](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=CF图库文件列表&bgColor=%237CB5F7&textColor=%23ffffff)](https://image.olim.in)
