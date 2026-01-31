@@ -3,6 +3,7 @@
 [![NocoBase](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=NocoBase&bgColor=%237CB5F7&textColor=%23ffffff)](https://base.olim.in)
 [![immich照片管理](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=immich照片管理&bgColor=%237CB5F7&textColor=%23ffffff)](https://photo.olim.in)
 [![webdav](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=webdav家&bgColor=%237CB5F7&textColor=%23ffffff)](https://dav.olim.in)
+[![MEMEO-amd](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MEMOS家&bgColor=%237CB5F7&textColor=%23ffffff)](https://memos.olim.ca)
 
 [![宽度](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=市场宽度&bgColor=%237CB5F7&textColor=%23ffffff)](https://kd.mkzg.com)
 [![GAMMA](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=GAMMA&bgColor=%237CB5F7&textColor=%23ffffff)](https://gamma.mkzg.com)
