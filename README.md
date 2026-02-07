@@ -5,27 +5,26 @@
 [![immich照片管理](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=immich照片管理&bgColor=%237CB5F7&textColor=%23ffffff)](https://photo.olim.in)
 [![webdav](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=webdav家&bgColor=%237CB5F7&textColor=%23ffffff)](https://dav.olim.in)
 [![MEMEO-amd](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MEMOS家&bgColor=%237CB5F7&textColor=%23ffffff)](https://memos.olim.ca)
-
-####  A1
+####  Oracle
 [![宽度](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=市场宽度&bgColor=%237CB5F7&textColor=%23ffffff)](https://kd.mkzg.com)
 [![GAMMA](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=GAMMA&bgColor=%237CB5F7&textColor=%23ffffff)](https://gamma.mkzg.com)
 [![n8n工作流自动化](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=n8n自动化-mkzg&bgColor=%237CB5F7&textColor=%23ffffff)](https://n8n.mkzg.com)
 [![密码管理](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=VaultWarden&bgColor=%237CB5F7&textColor=%23ffffff)](https://vault.mkzg.com)
 [![Jupyter](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Jupyter-Notebook&bgColor=%237CB5F7&textColor=%23ffffff)](https://jupyter.mkzg.com)
 [![joplin-serverbdav](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=joplin-server&bgColor=%237CB5F7&textColor=%23ffffff)](https://note.mkzg.com)
-
-####  MKZG
 [![Filebrowser](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MKZG-file&bgColor=%237CB5F7&textColor=%23ffffff)](https://file.mkzg.com)
 [![webdav](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MKZG-dav&bgColor=%237CB5F7&textColor=%23ffffff)](https://dav.mkzg.com)
-
-####  AMD
 [![navigation](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=导航页&bgColor=%237CB5F7&textColor=%23ffffff)](https://nav.olim.ca)
 
-#### CF
-[![CF图库文件列表](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=CF图库文件列表&bgColor=%237CB5F7&textColor=%23ffffff)](https://image.olim.in)
-[![盘-CDrive](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=盘-CDrive&bgColor=%237CB5F7&textColor=%23ffffff)](https://pan.olim.in)
+### 股票投资
+[![tradingview](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=tradingview&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.tradingview.com/chart/yVJNDiXY/)
+[![LucidTrading](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=LucidTrading&bgColor=%237CB5F7&textColor=%23ffffff)](https://lucidtrading.com/dashboard/)
+[![Topstep](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=TopStep&bgColor=%237CB5F7&textColor=%23ffffff)](https://dashboard.topstep.com/dashboard/)
+[![WorkMarket](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=WorkMarket&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.workmarket.com/)
 
 #### 其它
+[![CF图库文件列表](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=CF图库文件列表&bgColor=%237CB5F7&textColor=%23ffffff)](https://image.olim.in)
+[![盘-CDrive](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=盘-CDrive&bgColor=%237CB5F7&textColor=%23ffffff)](https://pan.olim.in)
 [![IT实用工具集](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=IT实用工具集&bgColor=%237CB5F7&textColor=%23ffffff)](https://tools.mkzg.com)
 [![在线影视观看](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=在线影视观看&bgColor=%237CB5F7&textColor=%23ffffff)](https://tv.mkzg.com)
 [![anime](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=anime-EdgeOne&bgColor=%237CB5F7&textColor=%23ffffff)](https://anime.mkzg.com)
@@ -34,14 +33,12 @@
 [![Draw画图-Claw](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Draw画图-爪云&bgColor=%237CB5F7&textColor=%23ffffff)](https://draw.olim.in)
 [![MEMEO-Claw](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MEMOS-爪云&bgColor=%237CB5F7&textColor=%23ffffff)](https://memo.olim.in)
 [![临时PPT展示-GH](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=临时PPT展示-GH&bgColor=%237CB5F7&textColor=%23ffffff)](https://ppt.olim.in)
-
 #### 管理面板
 [![1panel-A1](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-A1&bgColor=%237CB5F7&textColor=%23ffffff)](https://1panel.mkzg.com/8da3914e8d)
 [![1panel-AMD-1918](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-AMD1918&bgColor=%237CB5F7&textColor=%23ffffff)](https://1panel-mkzg.mkzg.com/6a178d22d2)
 [![1panel-AMD-2220](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-AMD2220&bgColor=%237CB5F7&textColor=%23ffffff)](https://1panel.olim.in/33c316eef5)
 [![1panel-Home](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-Home&bgColor=%237CB5F7&textColor=%23ffffff)](http://100.118.61.70:32605/1379e41ace)
 [![1panel-Home](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-E2&bgColor=%237CB5F7&textColor=%23ffffff)](http://100.120.140.100:41742/f477b59383)
-
 ### 常用平台服务
 [![Github](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=Github&bgColor=%237CB5F7&textColor=%23ffffff)](https://github.com)
 [![CloudFlare赛博菩萨](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=CloudFlare赛博菩萨&bgColor=%237CB5F7&textColor=%23ffffff)](https://dash.cloudflare.com/)
@@ -49,13 +46,6 @@
 [![Oracle甲骨文](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Oracle甲骨文&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.oracle.com/ca-en/cloud/sign-in.html)
 [![ClawCloud Run](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=ClawCloudRun&bgColor=%237CB5F7&textColor=%23ffffff)](https://us-west-1.run.claw.cloud/)
 [![谷歌云](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=谷歌云&bgColor=%237CB5F7&textColor=%23ffffff)](https://console.cloud.google.com)
-
-### 股票投资
-[![tradingview](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=tradingview&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.tradingview.com/chart/yVJNDiXY/)
-[![LucidTrading](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=LucidTrading&bgColor=%237CB5F7&textColor=%23ffffff)](https://lucidtrading.com/dashboard/)
-[![Topstep](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=TopStep&bgColor=%237CB5F7&textColor=%23ffffff)](https://dashboard.topstep.com/dashboard/)
-[![WorkMarket](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=TopStep&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.workmarket.com/)
-
 ### 谷歌大家庭
 [![谷歌-AI Studio](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=谷歌-AIStudio&bgColor=%237CB5F7&textColor=%23ffffff)](https://aistudio.google.com/apps)
 [![谷歌-Colab](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=谷歌-Colab&bgColor=%237CB5F7&textColor=%23ffffff)](https://colab.research.google.com/)
@@ -71,7 +61,6 @@
 [![谷歌-Sites网站](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=谷歌-Sites网站&bgColor=%237CB5F7&textColor=%23ffffff)](https://sites.google.com/)
 [![Google Appointment](https://images.placeholders.dev/?width=320&height=50&fontSize=30&text=GoogleAppointment&bgColor=%237CB5F7&textColor=%23ffffff)](https://calendar.app.google/)
 [![YouTube](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=YouTube&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.youtube.com/channel)
-
 ### 社交平台
 [![Facebook](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=Facebook&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.facebook.com)
 [![Instagram](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=Instagram&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.instagram.com)
@@ -92,7 +81,6 @@
 [![Mastodon](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Mastodon&bgColor=%237CB5F7&textColor=%23ffffff)](https://fosstodon.org)
 [![PeerList](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=PeerList&bgColor=%237CB5F7&textColor=%23ffffff)](https://peerlist.io)
 [![Pinterest](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Pinterest&bgColor=%237CB5F7&textColor=%23ffffff)](https://pinterest.com)
-
 ### 其它
 [![Vimeo](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=Vimeo&bgColor=%237CB5F7&textColor=%23ffffff)](https://vimeo.com)
 [![Reddit](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=Reddit&bgColor=%237CB5F7&textColor=%23ffffff)](http://reddit.com/u)
