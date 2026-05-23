@@ -33,12 +33,15 @@
 [![Draw画图-Claw](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Draw画图-爪云&bgColor=%237CB5F7&textColor=%23ffffff)](https://draw.olim.in)
 [![MEMEO-Claw](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MEMOS-爪云&bgColor=%237CB5F7&textColor=%23ffffff)](https://memo.olim.in)
 [![临时PPT展示-GH](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=临时PPT展示-GH&bgColor=%237CB5F7&textColor=%23ffffff)](https://ppt.olim.in)
+
 #### 管理面板
-[![1panel-A1](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-A1&bgColor=%237CB5F7&textColor=%23ffffff)](https://1panel.mkzg.com/8da3914e8d)
-[![1panel-AMD-1918](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-AMD1918&bgColor=%237CB5F7&textColor=%23ffffff)](https://1panel-mkzg.mkzg.com/6a178d22d2)
-[![1panel-AMD-2220](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-AMD2220&bgColor=%237CB5F7&textColor=%23ffffff)](https://1panel.olim.in/33c316eef5)
+[![1panel-A1](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-A1&bgColor=%237CB5F7&textColor=%23ffffff)](http://100.102.48.69:12415/8da3914e8d)
+[![1panel-AMD-1918](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-AMD1918&bgColor=%237CB5F7&textColor=%23ffffff)](http://100.114.184.111:12415/6a178d22d2)
+[![1panel-AMD-2220](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-AMD2220&bgColor=%237CB5F7&textColor=%23ffffff)](http://100.107.217.39:38699/33c316eef5)
 [![1panel-Home](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-Home&bgColor=%237CB5F7&textColor=%23ffffff)](http://100.118.61.70:32605/1379e41ace)
-[![1panel-Home](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-E2&bgColor=%237CB5F7&textColor=%23ffffff)](http://100.120.140.100:41742/f477b59383)
+[![1panel-GGE2](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-E2&bgColor=%237CB5F7&textColor=%23ffffff)](http://100.120.140.100:41742/f477b59383)
+[![1panel-Pi](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=1Panel-Pi&bgColor=%237CB5F7&textColor=%23ffffff)](http://100.103.154.50:13186/5490d31c53)
+
 ### 常用平台服务
 [![Github](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=Github&bgColor=%237CB5F7&textColor=%23ffffff)](https://github.com)
 [![CloudFlare赛博菩萨](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=CloudFlare赛博菩萨&bgColor=%237CB5F7&textColor=%23ffffff)](https://dash.cloudflare.com/)
@@ -46,6 +49,18 @@
 [![Oracle甲骨文](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Oracle甲骨文&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.oracle.com/ca-en/cloud/sign-in.html)
 [![ClawCloud Run](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=ClawCloudRun&bgColor=%237CB5F7&textColor=%23ffffff)](https://us-west-1.run.claw.cloud/)
 [![谷歌云](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=谷歌云&bgColor=%237CB5F7&textColor=%23ffffff)](https://console.cloud.google.com)
+[![Vercel](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Vercel&bgColor=%237CB5F7&textColor=%23ffffff)](https://vercel.com/)
+
+### 实用工具类
+[![IP查询](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=IP查询&bgColor=%237CB5F7&textColor=%23ffffff)](https://ip.ssss.nyc.mn/)
+[![IP查询-ping](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=IP查询-ping&bgColor=%237CB5F7&textColor=%23ffffff)](https://ping0.cc/)
+[![真实地址生成器](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=真实地址生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://address.nnuu.nyc.mn/)
+[![美国地址生成器](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=美国地址生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://usaddressgen.com/)
+[![美国地址生成](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=美国地址生成&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.meiguodizhi.com/)
+[![信用卡生成器](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=信用卡生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://cardguru.io/)
+[![身份生成器](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=身份生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.fakepersongenerator.com/)
+[![身份生成器](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=身份生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://ugener.com/)
+
 ### 谷歌大家庭
 [![谷歌-AI Studio](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=谷歌-AIStudio&bgColor=%237CB5F7&textColor=%23ffffff)](https://aistudio.google.com/apps)
 [![谷歌-Colab](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=谷歌-Colab&bgColor=%237CB5F7&textColor=%23ffffff)](https://colab.research.google.com/)
