@@ -5,6 +5,7 @@
 [![immich照片管理](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=immich照片管理&bgColor=%237CB5F7&textColor=%23ffffff)](https://photo.olim.in)
 [![webdav](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=webdav家&bgColor=%237CB5F7&textColor=%23ffffff)](https://dav.olim.in)
 [![MEMEO-amd](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MEMOS家&bgColor=%237CB5F7&textColor=%23ffffff)](https://memos.olim.ca)
+
 ####  Oracle
 [![宽度](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=市场宽度&bgColor=%237CB5F7&textColor=%23ffffff)](https://kd.mkzg.com)
 [![GAMMA](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=GAMMA&bgColor=%237CB5F7&textColor=%23ffffff)](https://gamma.mkzg.com)
@@ -14,7 +15,7 @@
 [![joplin-serverbdav](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=joplin-server&bgColor=%237CB5F7&textColor=%23ffffff)](https://note.mkzg.com)
 [![Filebrowser](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MKZG-file&bgColor=%237CB5F7&textColor=%23ffffff)](https://file.mkzg.com)
 [![webdav](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=MKZG-dav&bgColor=%237CB5F7&textColor=%23ffffff)](https://dav.mkzg.com)
-[![navigation](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=导航页&bgColor=%237CB5F7&textColor=%23ffffff)](https://nav.olim.ca)
+[![navigation](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=导航页&bgColor=%237CB5F7&textColor=%23ffffff)](https://nav.olim.ca)
 
 ### 股票投资
 [![tradingview](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=tradingview&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.tradingview.com/chart/yVJNDiXY/)
@@ -48,18 +49,18 @@
 [![腾讯EdgeOne](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=腾讯EdgeOne&bgColor=%237CB5F7&textColor=%23ffffff)](https://console.tencentcloud.com/edgeone/zones)
 [![Oracle甲骨文](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Oracle甲骨文&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.oracle.com/ca-en/cloud/sign-in.html)
 [![ClawCloud Run](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=ClawCloudRun&bgColor=%237CB5F7&textColor=%23ffffff)](https://us-west-1.run.claw.cloud/)
-[![谷歌云](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=谷歌云&bgColor=%237CB5F7&textColor=%23ffffff)](https://console.cloud.google.com)
+[![谷歌云](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=谷歌云&bgColor=%237CB5F7&textColor=%23ffffff)](https://console.cloud.google.com)
 [![Vercel](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=Vercel&bgColor=%237CB5F7&textColor=%23ffffff)](https://vercel.com/)
 
 ### 实用工具类
-[![IP查询](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=IP查询&bgColor=%237CB5F7&textColor=%23ffffff)](https://ip.ssss.nyc.mn/)
-[![IP查询-ping](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=IP查询-ping&bgColor=%237CB5F7&textColor=%23ffffff)](https://ping0.cc/)
-[![真实地址生成器](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=真实地址生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://address.nnuu.nyc.mn/)
-[![美国地址生成器](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=美国地址生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://usaddressgen.com/)
-[![美国地址生成](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=美国地址生成&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.meiguodizhi.com/)
-[![信用卡生成器](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=信用卡生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://cardguru.io/)
-[![身份生成器](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=身份生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.fakepersongenerator.com/)
-[![身份生成器](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=身份生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://ugener.com/)
+[![IP查询](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=IP查询&bgColor=%237CB5F7&textColor=%23ffffff)](https://ip.ssss.nyc.mn/)
+[![IP查询-ping](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=IP查询-ping&bgColor=%237CB5F7&textColor=%23ffffff)](https://ping0.cc/)
+[![真实地址生成器](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=真实地址生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://address.nnuu.nyc.mn/)
+[![美国地址生成器](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=美国地址生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://usaddressgen.com/)
+[![美国地址生成](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=美国地址生成&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.meiguodizhi.com/)
+[![信用卡生成器](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=信用卡生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://cardguru.io/)
+[![身份生成器](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=身份生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.fakepersongenerator.com/)
+[![身份生成器](https://images.placeholders.dev/?width=250&height=50&fontSize=30&text=身份生成器&bgColor=%237CB5F7&textColor=%23ffffff)](https://ugener.com/)
 
 ### 谷歌大家庭
 [![谷歌-AI Studio](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=谷歌-AIStudio&bgColor=%237CB5F7&textColor=%23ffffff)](https://aistudio.google.com/apps)
@@ -76,6 +77,7 @@
 [![谷歌-Sites网站](https://images.placeholders.dev/?width=300&height=50&fontSize=30&text=谷歌-Sites网站&bgColor=%237CB5F7&textColor=%23ffffff)](https://sites.google.com/)
 [![Google Appointment](https://images.placeholders.dev/?width=320&height=50&fontSize=30&text=GoogleAppointment&bgColor=%237CB5F7&textColor=%23ffffff)](https://calendar.app.google/)
 [![YouTube](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=YouTube&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.youtube.com/channel)
+
 ### 社交平台
 [![Facebook](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=Facebook&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.facebook.com)
 [![Instagram](https://images.placeholders.dev/?width=200&height=50&fontSize=30&text=Instagram&bgColor=%237CB5F7&textColor=%23ffffff)](https://www.instagram.com)
